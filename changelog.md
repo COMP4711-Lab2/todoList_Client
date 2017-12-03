@@ -13,5 +13,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 - Setup repo from previous lab
 
+## [1.0.2] - 2017-11-30 (Judy Zhu)
 
+- Modified model Tasks.php
+- Added rest library
 
